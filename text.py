@@ -1,3 +1,4 @@
-print("hello world!")
-print("i am added a new line")
-print("i am adding a another line")
+a=int(input("enter a number:"))
+b=int(input("enter a number:"))
+print(a)
+print(b)
